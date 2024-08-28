@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-A sinple 4 bit R2R DAC
+"Performance evaluation of Raw Transistors"
 
 ## How to test
 
-Set the first 4 digital inputs to select the output analog voltage
+"Performance evaluation of Raw Transistors test"
 
 ## External hardware
 
