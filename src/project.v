@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_um_wakki-0123_Raw_Transistors (
+module tt_um_wakki_0123_Raw_Transistors (
     input  wire       VGND,
     input  wire       VDPWR,    // 1.8v power supply
 //    input  wire       VAPWR,    // 3.3v power supply
