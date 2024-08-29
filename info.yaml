@@ -4,8 +4,8 @@ project:
   author:       "Isshu Wakita"      # Your name
   discord:      ""      # Yor discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Performance evaluation of Raw_Transistors"      # One line description of what your project does
-  how_it_works: "Raw_Transistors works"
-  how_to_test:  "Raw_Transistors test"
+    #how_it_works: "Raw_Transistors works"
+    #how_to_test:  "Raw_Transistors test"
   language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
